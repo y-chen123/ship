@@ -1,4 +1,4 @@
-# AIS × YOLO 船舶長寬估算 Demo
+# AIS × YOLO 船舶長寬估算 
 
 本專案示範如何利用：
 
